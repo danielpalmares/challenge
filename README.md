@@ -95,7 +95,7 @@ Certifique-se de que todos os critérios de aceite são atendidos durante o dese
 
 ## Autor
 
-Desenvolvido por Daniel Palmares and RD Station
+Desenvolvido por Daniel Palmares e RD Station
 
 ## Licença
 
